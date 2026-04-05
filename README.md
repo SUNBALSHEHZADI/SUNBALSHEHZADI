@@ -86,4 +86,4 @@ I’ve applied these skills across predictive modeling (house price, fraud detec
 
 ---
 
-*This README serves as my CV & portfolio. Last updated: April 2026.*
+
