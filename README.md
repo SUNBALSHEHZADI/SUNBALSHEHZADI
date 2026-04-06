@@ -1,4 +1,4 @@
-<h1 align="center"> I'm Sunbal Shehzadi</h1>
+<h1 align="center"> Sunbal Shehzadi</h1>
 <h3 align="center">AI/ML Engineer | Data Scientist | NLP  | AI Trainer </h3>
 
 <p align="center">
