@@ -1,5 +1,5 @@
 <h1 align="center"> Sunbal Shehzadi</h1>
-<h3 align="center">AI/ML Engineer | Data Scientist | NLP  | AI Trainer </h3>
+<h3 align="center">AI/ML Engineer | Data Science| NLP  | AI Trainer </h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sunbal-shehzadi-1a072937b" target="_blank">
