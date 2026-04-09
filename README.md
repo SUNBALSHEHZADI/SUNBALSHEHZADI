@@ -42,7 +42,7 @@ I’ve applied these skills across predictive modeling (house price, fraud detec
 ### 🏆 Achievements & Certificates
 
 - 🥉 **3rd Place** – Vibe Coding Competition, 
-- 🥇 **1st Place ** –Harvard CS50x Puzzle Day (solved 9/9 puzzles)
+- 🥇 **1st Place** –Harvard CS50x Puzzle Day (solved 9/9 puzzles)
 - 📜 **Certifications**:
 - Machine Learning (Coursera),
 - MATLAB Onramp, Python Programmer,
